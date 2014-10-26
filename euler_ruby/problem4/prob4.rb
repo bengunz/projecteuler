@@ -1,4 +1,4 @@
-#!/usr/bin/ruby env
+#!/usr/bin/ruby
 
 palindrome = 1
 
